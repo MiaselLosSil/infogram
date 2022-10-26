@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">INFOGRAM</string>
+    <string name="nombre_de_usuario">Username</string>
+    <string name="contrasena">Password</string>
+    <string name="button_text">LOGIN</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?, </string>
+    <string name="crea_una_aqui">crea_una_aqui</string>
+    <string name="correo">Correo</string>
+    <string name="nombre">Nombre</string>
+    <string name="usuario">Usuario</string>
+    <string name="confirme_contrasena">Confirme contraseña</string>
+    <string name="button_text_create_account">UNETE</string>
+    <string name="title_crear_cuenta">Crear cuenta</string>
+</resources>
