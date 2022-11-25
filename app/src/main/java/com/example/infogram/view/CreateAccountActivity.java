@@ -1,9 +1,11 @@
-package com.example.infogram;
+package com.example.infogram.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.Toolbar;
+
+import com.example.infogram.R;
 
 public class CreateAccountActivity extends AppCompatActivity {
 
