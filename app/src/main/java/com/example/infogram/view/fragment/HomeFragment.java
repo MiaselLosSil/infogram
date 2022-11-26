@@ -88,17 +88,17 @@ public class HomeFragment extends Fragment {
     public ArrayList<Image> buildImages(){
         ArrayList<Image> images = new ArrayList<>();
 
-        images.add(new Image("", "Selena Gomez", "3 dias", "500 me gusta"));
-        images.add(new Image("", "Maria Melgar", "15 dias", "50 me gusta"));
-        images.add(new Image("", "Marcelo Lopez", "4 dias", "7 me gusta"));
-        images.add(new Image("", "Francisco Pizarro", "1 dias", "21 me gusta"));
-        images.add(new Image("", "Fabiola Lobo", "9 dias", "5 me gusta"));
-        images.add(new Image("", "Desire Molina", "7 dias", "60 me gusta"));
-        images.add(new Image("", "Armando Salazar", "20 dias", "9 me gusta"));
-        images.add(new Image("", "Xavier Trujillo", "11 dias", "10 me gusta"));
-        images.add(new Image("", "Angela Reyes", "7 dias", "250 me gusta"));
-        images.add(new Image("", "Teodoro Velazquez", "2 dias", "33 me gusta"));
-        images.add(new Image("", "Andrea Orozco", "21 dias", "8 me gusta"));
+        images.add(new Image("https://i.pinimg.com/originals/30/14/64/301464d75827230f045aec1ac75c2949.jpg", "Selena Gomez", "3 dias", "500 me gusta"));
+        images.add(new Image("https://wallpaperaccess.com/full/734553.jpg", "Maria Melgar", "15 dias", "50 me gusta"));
+        images.add(new Image("https://i.pinimg.com/originals/c4/32/4a/c4324ae57487411dfb91650229944b75.jpg", "Marcelo Lopez", "4 dias", "7 me gusta"));
+        images.add(new Image("https://c4.wallpaperflare.com/wallpaper/39/346/426/digital-art-men-city-futuristic-night-hd-wallpaper-preview.jpg", "Francisco Pizarro", "1 dias", "21 me gusta"));
+        images.add(new Image("https://images3.alphacoders.com/641/641975.jpg", "Fabiola Lobo", "9 dias", "5 me gusta"));
+        images.add(new Image("https://i.pinimg.com/originals/32/17/8c/32178c65770245ad533ce6bfa51cd208.jpg", "Desire Molina", "7 dias", "60 me gusta"));
+        images.add(new Image("https://wallpapers.org.es/wp-content/uploads/2013/10/wallpaper-bosque-encantado.jpg", "Armando Salazar", "20 dias", "9 me gusta"));
+        images.add(new Image("https://c4.wallpaperflare.com/wallpaper/342/395/609/anime-bleach-kurosaki-ichigo-nanfe-wallpaper-preview.jpg", "Xavier Trujillo", "11 dias", "10 me gusta"));
+        images.add(new Image("https://p4.wallpaperbetter.com/wallpaper/788/303/744/neon-digital-artwork-digital-art-asian-hd-wallpaper-preview.jpg", "Angela Reyes", "7 dias", "250 me gusta"));
+        images.add(new Image("https://p4.wallpaperbetter.com/wallpaper/315/379/745/post-apocalyptic-4k-hd-background-download-wallpaper-preview.jpg", "Teodoro Velazquez", "2 dias", "33 me gusta"));
+        images.add(new Image("https://www.xtrafondos.com/wallpapers/resoluciones/20/diseno-de-paisaje-del-espacio_2560x1440_5771.jpg", "Andrea Orozco", "21 dias", "8 me gusta"));
 
 
 
