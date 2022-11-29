@@ -100,8 +100,6 @@ public class HomeFragment extends Fragment {
         images.add(new Image("https://p4.wallpaperbetter.com/wallpaper/315/379/745/post-apocalyptic-4k-hd-background-download-wallpaper-preview.jpg", "Teodoro Velazquez", "2 dias", "33 me gusta"));
         images.add(new Image("https://www.xtrafondos.com/wallpapers/resoluciones/20/diseno-de-paisaje-del-espacio_2560x1440_5771.jpg", "Andrea Orozco", "21 dias", "8 me gusta"));
 
-
-
         return images;
     }
 }

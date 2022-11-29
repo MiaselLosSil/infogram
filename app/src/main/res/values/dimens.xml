@@ -24,6 +24,21 @@
     <dimen name="textSize_title_image_detail">16sp</dimen>
     <dimen name="paddinTop_title_image_detail">30dp</dimen>
     <dimen name="marginEnd_fab_image_detail">30dp</dimen>
+    <dimen name="paddinTop_profile">200dp</dimen>
+    <dimen name="paddingBottom_profile">20dp</dimen>
+    <dimen name="textSize_username_profile">30dp</dimen>
+    <dimen name="size_circle_image_profile">150dp</dimen>
+    <dimen name="pmarginTop_circle_profile">40dp</dimen>
+    <dimen name="elevation_circle_profile">10dp</dimen>
+    <dimen name="dependTargetY_circle_profile">-100dp</dimen>
+    <dimen name="target_circle_profile">10dp</dimen>
+    <dimen name="targetSize_circle_profile">40dp</dimen>
+    <dimen name="textSize_username_appbar_profile">18sp</dimen>
+    <dimen name="elevation_username_appbar_profile">10dp</dimen>
+    <dimen name="marginLeft_username_appbar_profile">70dp</dimen>
+    <dimen name="marginTop_username_appbar_profile">-100dp</dimen>
+    <dimen name="dependTargetY_username_appbar_profile">-250dp</dimen>
+    <dimen name="targetY_username_appbar_profile">40p</dimen>
     <item name="textSize_content_image_detail" type="dimen" format="float">Lorem Ipsum es
         simplemente un texto ficticio de la industria de la impresión y la composición tipográfica.
         Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el año 1500, cuando un
